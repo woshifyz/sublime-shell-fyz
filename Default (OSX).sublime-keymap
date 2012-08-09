@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["ctrl+super+h"],
+        "command": "shell_open"
+    },
+    {
+        "keys": ["ctrl+super+u"],
+        "command": "shell_close"
+    }
+]
