@@ -1,7 +1,10 @@
 [
     {
-        "keys": ["ctrl+super+n"],
-        "command": "sublime_files",
-        "args": {"command":"navigate"}
+        "keys": ["ctrl+super+h"],
+        "command": "shell_open"
+    },
+    {
+        "keys": ["ctrl+super+u"],
+        "command": "shell_close"
     }
 ]
